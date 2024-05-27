@@ -4,7 +4,7 @@
 This dashboard can be used to solve the problem of understanding and optimizing sales performance in a ride-sharing business. By analyzing hourly sales data, total revenue, rider demographics, profit margins, seasonal trends, and rider types, the dashboard provides insights into peak sales periods, rider behavior, and profitability. This information can help in strategic decision-making, marketing efforts, and operational improvements.
 
 ## Brief Introduction for Portfolio:
-In today's data-driven business environment, leveraging analytics to gain insights is crucial for sustained success. To address this need, I developed a 'Comprehensive Sales and Revenue Analysis Dashboard' using Power BI. This dashboard is designed for a ride-sharing company to provide a holistic view of its performance across various dimensions.
+In today's data-driven business environment, leveraging analytics to gain insights is crucial for sustained success. To address this need, I developed a 'Sales and Revenue Analysis Dashboard' using Power BI. This dashboard is designed for a ride-sharing company to provide a holistic view of its performance across various dimensions.
 
 ## Key features include:
 Bike Share Sales and Revenue Analysis Dashboard Report (Dataset: 2021-2022).
