@@ -20,3 +20,8 @@ For detailed information, refer to the Power BI dashboard - https://github.com/o
 7. Rider Type Segmentation: Summarized data on the number of rides by casual and registered riders, helping to tailor marketing and retention strategies.
 
 This dashboard not only provides comprehensive data visualization but also serves as a powerful tool for identifying trends, optimizing operations, and making informed business decisions."
+
+## Contact Me
+Email: abidoyeolayinka@yahoo.com
+
+Feel free to reach out to me for collaborations, inquiries, or any questions related to my Power BI dashboards. Thank you for visiting my portfolio!
