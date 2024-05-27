@@ -8,6 +8,7 @@ In today's data-driven business environment, leveraging analytics to gain insigh
 
 ## Key features include:
 Bike Share Sales and Revenue Analysis Dashboard Report (Dataset: 2021-2022).
+
 For detailed information, refer to the Power BI dashboard - https://github.com/olayinka3405/Bike-Share-Sales-and-Revenue-Analysis-Dashboard/blob/main/Bike_Share.pbix
 
 1. Hourly Sales Data Analysis: A detailed table displaying sales data on an hourly basis throughout the week, helping to identify peak times and potential areas for increased focus.
