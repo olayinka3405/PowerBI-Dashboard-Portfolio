@@ -7,6 +7,7 @@ This dashboard can be used to solve the problem of understanding and optimizing 
 In today's data-driven business environment, leveraging analytics to gain insights is crucial for sustained success. To address this need, I developed a 'Comprehensive Sales and Revenue Analysis Dashboard' using Power BI. This dashboard is designed for a ride-sharing company to provide a holistic view of its performance across various dimensions.
 
 ## Key features include:
+Bike Share Sales and Revenue Analysis Dashboard Report (Dataset: 2021-2022).
 For detailed information, refer to the Power BI dashboard - https://github.com/olayinka3405/Bike-Share-Sales-and-Revenue-Analysis-Dashboard/blob/main/Bike_Share.pbix
 
 1. Hourly Sales Data Analysis: A detailed table displaying sales data on an hourly basis throughout the week, helping to identify peak times and potential areas for increased focus.
