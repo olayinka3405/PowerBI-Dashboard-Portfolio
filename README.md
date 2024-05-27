@@ -1,12 +1,13 @@
 # Project Title: Sales and Revenue Analysis Dashboard
 
-# Potential Problem to Solve:
+## Potential Problem to Solve:
 This dashboard can be used to solve the problem of understanding and optimizing sales performance in a ride-sharing business. By analyzing hourly sales data, total revenue, rider demographics, profit margins, seasonal trends, and rider types, the dashboard provides insights into peak sales periods, rider behavior, and profitability. This information can help in strategic decision-making, marketing efforts, and operational improvements.
 
-# Brief Introduction for Portfolio:
+## Brief Introduction for Portfolio:
 In today's data-driven business environment, leveraging analytics to gain insights is crucial for sustained success. To address this need, I developed a 'Comprehensive Sales and Revenue Analysis Dashboard' using Power BI. This dashboard is designed for a ride-sharing company to provide a holistic view of its performance across various dimensions.
 
-# Key features include:
+## Key features include:
+For detailed information, refer to the Power BI dashboard -
 
 1. Hourly Sales Data Analysis: A detailed table displaying sales data on an hourly basis throughout the week, helping to identify peak times and potential areas for increased focus.
 2. Total Revenue Calculation: An aggregated view of the company's total revenue, offering a snapshot of overall financial health.
