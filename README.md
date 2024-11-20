@@ -19,6 +19,10 @@ This portfolio addresses the need for effective data visualization and analysis 
 3. Storytelling with Data
 4. Testing and Data Analysis
 
+## Download Report:
+
+Simply navigate to https://github.com/olayinka3405/PowerBI-Dashboard-Portfolio/tree/main/Call%20Center
+
 ## About Me
 
 I am passionate about data analysis and visualization, and Power BI is one of my favorite tools for creating insightful dashboards. With a background in testing and data analysis, I have honed my skills in testing, data storytelling, and delivering actionable insights through compelling visualizations.
