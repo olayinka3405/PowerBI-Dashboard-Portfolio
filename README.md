@@ -2,7 +2,7 @@
 Welcome to my Power BI Dashboard Portfolio! This repository showcases a collection of interactive dashboards that I have designed using Power BI Desktop. Each dashboard demonstrates my proficiency in data visualization, analysis, and storytelling with Power BI Desktop.
 
 # Business Problem
-This portfolio addresses the need for effective data visualization and analysis tools to transform raw data into actionable insights. It showcases the ability to present complex data in a clear and engaging manner.
+This portfolio addresses the need for effective data visualization and analysis tools to transform raw data into actionable insights. It showcases my ability to present complex data in a clear and engaging manner.
 
 # How to Use
 
